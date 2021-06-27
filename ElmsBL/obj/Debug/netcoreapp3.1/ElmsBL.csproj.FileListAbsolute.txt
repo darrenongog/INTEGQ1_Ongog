@@ -1,0 +1,12 @@
+C:\Users\SAMSUNG\source\repos\ElmsUI\ElmsBL\bin\Debug\netcoreapp3.1\ElmsBL.deps.json
+C:\Users\SAMSUNG\source\repos\ElmsUI\ElmsBL\bin\Debug\netcoreapp3.1\ElmsBL.dll
+C:\Users\SAMSUNG\source\repos\ElmsUI\ElmsBL\bin\Debug\netcoreapp3.1\ElmsBL.pdb
+C:\Users\SAMSUNG\source\repos\ElmsUI\ElmsBL\obj\Debug\netcoreapp3.1\ElmsBL.csprojAssemblyReference.cache
+C:\Users\SAMSUNG\source\repos\ElmsUI\ElmsBL\obj\Debug\netcoreapp3.1\ElmsBL.AssemblyInfoInputs.cache
+C:\Users\SAMSUNG\source\repos\ElmsUI\ElmsBL\obj\Debug\netcoreapp3.1\ElmsBL.AssemblyInfo.cs
+C:\Users\SAMSUNG\source\repos\ElmsUI\ElmsBL\obj\Debug\netcoreapp3.1\ElmsBL.csproj.CoreCompileInputs.cache
+C:\Users\SAMSUNG\source\repos\ElmsUI\ElmsBL\obj\Debug\netcoreapp3.1\ElmsBL.dll
+C:\Users\SAMSUNG\source\repos\ElmsUI\ElmsBL\obj\Debug\netcoreapp3.1\ElmsBL.pdb
+C:\Users\SAMSUNG\source\repos\ElmsUI\ElmsBL\bin\Debug\netcoreapp3.1\ElmsDL.dll
+C:\Users\SAMSUNG\source\repos\ElmsUI\ElmsBL\bin\Debug\netcoreapp3.1\ElmsDL.pdb
+C:\Users\SAMSUNG\source\repos\ElmsUI\ElmsBL\obj\Debug\netcoreapp3.1\ElmsBL.csproj.CopyComplete

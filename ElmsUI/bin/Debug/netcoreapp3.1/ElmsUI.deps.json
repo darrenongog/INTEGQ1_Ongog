@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ElmsUI/1.0.0": {
+        "dependencies": {
+          "ElmsBL": "1.0.0",
+          "ElmsDL": "1.0.0"
+        },
+        "runtime": {
+          "ElmsUI.dll": {}
+        }
+      },
+      "ElmsBL/1.0.0": {
+        "dependencies": {
+          "ElmsDL": "1.0.0"
+        },
+        "runtime": {
+          "ElmsBL.dll": {}
+        }
+      },
+      "ElmsDL/1.0.0": {
+        "runtime": {
+          "ElmsDL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElmsUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ElmsBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ElmsDL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
